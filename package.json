@@ -1,5 +1,5 @@
 {
-	"name": "@projectstorm/react-diagrams",
+	"name": "react-diagrams",
   "version": "6.3.0",
 	"author": "dylanvorster",
 	"private": true,
@@ -98,5 +98,8 @@
 		"webpack-cli": "^3.3.12",
 		"webpack-dev-server": "^3.11.0",
 		"webpack-node-externals": "^2.5.2"
+	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/@rompo14"
 	}
 }
